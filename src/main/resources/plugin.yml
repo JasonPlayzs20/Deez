@@ -1,0 +1,17 @@
+name: AAA
+version: '${project.version}'
+main: com.jasonplayzs20.main.Main
+api-version: 1.18
+commands:
+  armor:
+    description: no
+  killArmor:
+    description: mo
+  velo:
+    description: do
+  cloud:
+    description: jo
+  phase:
+    description: mama
+  aim:
+    description: aim
